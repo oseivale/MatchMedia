@@ -1,0 +1,56 @@
+.container{
+    height: 40vh;
+}
+
+.box1{
+    display: grid;
+    grid-template-columns: 1fr 2fr; 
+    height: 40vh;
+}
+
+.mobile-box1{
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 40vh;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    height: 40vh;
+    background-color: blue;
+}
+
+.no-blue{
+    display: none;
+}
+
+.box3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 40vh;
+}
+
+.mobile-box3{
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 40vh;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.green{
+    background-color: green;
+}
+
+.purple{
+    background-color: purple;
+}
